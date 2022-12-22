@@ -5,6 +5,7 @@ import UserCard from '../../ui/userCard'
 import QualitiesCard from '../../ui/qualitiesCard'
 import MeetingsCard from '../../ui/meetingsCard'
 import Comments from '../../ui/comments'
+// 22.12.22
 // Методичка к уроку
 // https://vladilen.notion.site/cf4d82976c8a44d2a3fd8b57ad20b287
 
